@@ -1,2 +1,2 @@
-Durant cette exercice qui demande assez de connaissance en Laravel j'ai su m'améliorer et récuperer des données.
-j'ai pu afficher un certains nombre d'éléments notemmment les titres, les moyenns de votes , 
+Pendant cet exercice, qui nécessite une bonne compréhension de Laravel, j'ai réussi à améliorer mes compétences et à récupérer des données à partir de l'API en utilisant l'outil Laravel. 
+J'ai réussi à afficher plusieurs éléments, notamment les titres, les moyennes de votes, le nombre de votes, ainsi que les descriptions. Au départ, j'ai rencontré des difficultés pour récupérer ces éléments, car j'utilisais React, mais j'ai finalement réussi à le faire en suivant les instructions de Laravel.
