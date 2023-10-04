@@ -1,0 +1,2 @@
+Durant cette exercice qui demande assez de connaissance en Laravel j'ai su m'améliorer et récuperer des données.
+j'ai pu afficher un certains nombre d'éléments notemmment les titres, les moyenns de votes , 
