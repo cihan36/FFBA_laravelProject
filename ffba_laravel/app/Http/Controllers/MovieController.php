@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Http;
-use GuzzleHttp\Client; // Importez la classe Client depuis Guzzle
+use GuzzleHttp\Client;
 
 class MovieController extends Controller
 {
